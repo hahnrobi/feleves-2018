@@ -1,0 +1,6 @@
+c:\users\hahnr\documents\visual studio 2015\Projects\CQSP8N_feleves\CQSP8N_feleves\bin\Debug\CQSP8N_feleves.exe.config
+c:\users\hahnr\documents\visual studio 2015\Projects\CQSP8N_feleves\CQSP8N_feleves\obj\Debug\CQSP8N_feleves.csprojResolveAssemblyReference.cache
+c:\users\hahnr\documents\visual studio 2015\Projects\CQSP8N_feleves\CQSP8N_feleves\bin\Debug\CQSP8N_feleves.exe
+c:\users\hahnr\documents\visual studio 2015\Projects\CQSP8N_feleves\CQSP8N_feleves\bin\Debug\CQSP8N_feleves.pdb
+c:\users\hahnr\documents\visual studio 2015\Projects\CQSP8N_feleves\CQSP8N_feleves\obj\Debug\CQSP8N_feleves.exe
+c:\users\hahnr\documents\visual studio 2015\Projects\CQSP8N_feleves\CQSP8N_feleves\obj\Debug\CQSP8N_feleves.pdb

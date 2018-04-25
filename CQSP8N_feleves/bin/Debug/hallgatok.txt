@@ -1,0 +1,9 @@
+Horváth Károly,férfi,1998-02-01,3,995,1
+Petőfi Sándor,férfi,1988-12-11,0,440,1
+Ferenc József,férfi,1994-05-01,0,554,2
+Kelemen Anna,nő,1989-05-22,5,350,2
+Alekosz,férfi,1987-04-01,2,666,3
+Damjanich János,férfi,1998-01-01,4,784,1
+Fekete Ernő,férfi,1994-07-22,2,882,2
+Varga Jenő,férfi,1996-11-11,3,777,3
+Bordos Emese,nő,1996-04-22,2,688,2
